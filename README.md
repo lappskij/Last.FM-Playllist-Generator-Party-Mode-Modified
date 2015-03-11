@@ -1,5 +1,5 @@
 # Last.FM-Playllist-Generator-Party-Mode-Modified
-Would love some help to modify this great addon script by an unknown progger. Found it by google.
+Would love some help to modify this great addon script by ErlendSB. Found it by google.
 This is a great script running in the background on Kodi once you start it in music addons. 
 It then search thru Last.FM based upon a song you select from your collection. It finds similar songs and add (by default, 
 but can be changed in settings) 3 similar songs found in your music database to the list. When playing next song it finds 
